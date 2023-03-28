@@ -60,6 +60,7 @@
 .search {
   padding-left: 8px;
   flex: 1 1 auto;
+  background: transparent;
   color: #A7A7A7;
   border: none;
   outline: none;
